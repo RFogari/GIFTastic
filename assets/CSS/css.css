@@ -1,0 +1,68 @@
+body{
+    background-color: lightgrey;
+}
+
+.displayBox{
+    background-color:green;
+    border-color:yellow;
+    border-style: dashed;
+    border-width: 1px;
+    margin: auto;
+    
+}
+
+.jumbotron{
+    background-color: lightgreen;
+    text-align: center;
+    padding-bottom:5px;
+    margin-bottom:10px;
+    
+
+}
+
+.jumboTitle{
+    
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    letter-spacing: 3px;
+    color: green;
+    padding: 10px;
+}
+
+h3{
+    font-family: 'Chicle', cursive;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: yellow;
+
+}
+
+.topicButtons {
+    background-color: lightgreen;
+    
+    
+    font-size:10px;
+    text-align: center;
+    margin: auto;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#gifButtons{
+font-size: 20px;
+}
+
+
+.userSubmission{
+    background-color: lightgreen;
+    padding-bottom: 10px;
+  
+}
+.userForm {
+    background-color: lightgren;
+    margin: auto;
+    border-width: 1px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
